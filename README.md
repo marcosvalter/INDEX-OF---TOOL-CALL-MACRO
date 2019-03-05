@@ -19,19 +19,34 @@ The macro is just a Index Of function. Instead of asking the value of a variable
 
 (POCKET=TOOL)
 #101=12340001
+
 #102=12340024
+
 #103=12340030
+
 #104=12340022
+
 #105=12340054
+
 #106=12340125
+
 #107=12340555
+
 #108=12340656
+
 #109=12340655
+
 #110=12343252
+
 #111=12342455
+
 #112=12345456
+
 #113=12341457
+
 #114=12345412
+
 #115=12341257
+
 
 If you ask for the variable that contains 12340125, you will get the #106. In this macro, The tool T6 will be called and the offsets H6 and D6 will be setted.
